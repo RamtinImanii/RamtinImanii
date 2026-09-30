@@ -32,8 +32,8 @@ My structured, long-term learning journey in AI and Deep Learning. It documents 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [YOUR_LINKEDIN_LINK](YOUR_LINKEDIN_LINK)
-- Email: YOUR_EMAIL@example.com
+- LinkedIn: https://www.linkedin.com/in/ramtin-imani-ab6a46251
+- Email: imaniramtin2000@gmail.com
 
 ---
 
