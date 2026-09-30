@@ -30,11 +30,6 @@ My structured, long-term learning journey in AI and Deep Learning. It documents 
 - Writing clean, well-documented code
 - Publishing what I learn in a clear and organized way
 
-## 📫 Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/ramtin-imani-ab6a46251
-- Email: imaniramtin2000@gmail.com
-
 ---
 
 ⭐ Thanks for visiting my profile!
