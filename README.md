@@ -15,8 +15,7 @@ I believe *AI can write code, but you must be able to explain and evaluate it.* 
 ## 🛠️ Tech & Topics
 
 - **Languages:** Python
-- **Currently learning:** Python for AI (NumPy, Pandas, Matplotlib), Git & GitHub
-- **Next on my roadmap:** Math for AI, Machine Learning, Neural Networks from scratch, PyTorch, Deep Learning
+- **Currently learning:** Machine Learning, Neural Networks from scratch, PyTorch, Deep Learning
 - **Areas of interest:** Artificial Intelligence, Computer Vision, Image Processing, Modern AI Systems
 
 ## 📚 Featured Project
